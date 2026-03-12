@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm David Kambinda 👋
 
-<!--
-**davidsk-tech/davidsk-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Student | Aspiring Web Developer
 
-Here are some ideas to get you started:
+I enjoy building practical web applications and improving my skills in frontend development and JavaScript.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🌐 Portfolio Website
+A responsive multi-page portfolio built using HTML, CSS, and JavaScript.
+
+Live Site  
+https://davidsk-tech.github.io/codveda-web-internship/
+
+Repository  
+https://github.com/davidsk-tech/codveda-web-internship
+
+---
+
+### ✅ To-Do List App
+A dynamic task manager built with JavaScript and localStorage.
+
+Features:
+- Add tasks
+- Delete tasks
+- Mark tasks as complete
+- Tasks remain after refresh using localStorage
+
+---
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+⭐ Always learning and building.
